@@ -9,3 +9,8 @@ https://www.skpang.co.uk/collections/teensy/products/teensy-4-0-obdii-can-bus-ec
 
 Other PIDs can be added, more info on PID:
 http://en.wikipedia.org/wiki/OBD-II_PIDs
+
+## Installation steps
+
+1. Install the Arduino SDK: https://www.arduino.cc/en/software
+2. Install Teensyduino support: https://www.pjrc.com/teensy/td_download.html
